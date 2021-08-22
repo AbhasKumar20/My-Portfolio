@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About Me on Abhas Kumar</title>
-    <link>https://noobmodeler.github.io/AB_portfolio/about/</link>
+    <link>https://someone-ab.github.io/My-Portfolio/about/</link>
     <description>Recent content in About Me on Abhas Kumar</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://noobmodeler.github.io/AB_portfolio/about/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://someone-ab.github.io/My-Portfolio/about/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

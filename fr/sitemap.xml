@@ -2,87 +2,87 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://noobmodeler.github.io/AB_portfolio/fr/</loc>
+    <loc>https://someone-ab.github.io/My-Portfolio/fr/</loc>
     <lastmod>2017-04-09T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://noobmodeler.github.io/AB_portfolio/"
+                href="https://someone-ab.github.io/My-Portfolio/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://noobmodeler.github.io/AB_portfolio/fr/"
+                href="https://someone-ab.github.io/My-Portfolio/fr/"
                 />
   </url><url>
-    <loc>https://noobmodeler.github.io/AB_portfolio/fr/post/chapter-1/</loc>
+    <loc>https://someone-ab.github.io/My-Portfolio/fr/post/chapter-1/</loc>
     <lastmod>2017-04-09T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://noobmodeler.github.io/AB_portfolio/fr/tags/scene/</loc>
+    <loc>https://someone-ab.github.io/My-Portfolio/fr/tags/scene/</loc>
     <lastmod>2017-04-09T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://noobmodeler.github.io/AB_portfolio/fr/tags/</loc>
+    <loc>https://someone-ab.github.io/My-Portfolio/fr/tags/</loc>
     <lastmod>2017-04-09T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://noobmodeler.github.io/AB_portfolio/tags/"
+                href="https://someone-ab.github.io/My-Portfolio/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://noobmodeler.github.io/AB_portfolio/fr/tags/"
+                href="https://someone-ab.github.io/My-Portfolio/fr/tags/"
                 />
   </url><url>
-    <loc>https://noobmodeler.github.io/AB_portfolio/fr/post/</loc>
+    <loc>https://someone-ab.github.io/My-Portfolio/fr/post/</loc>
     <lastmod>2017-03-02T12:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://noobmodeler.github.io/AB_portfolio/post/"
+                href="https://someone-ab.github.io/My-Portfolio/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://noobmodeler.github.io/AB_portfolio/fr/post/"
+                href="https://someone-ab.github.io/My-Portfolio/fr/post/"
                 />
   </url><url>
-    <loc>https://noobmodeler.github.io/AB_portfolio/fr/categories/</loc>
+    <loc>https://someone-ab.github.io/My-Portfolio/fr/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://noobmodeler.github.io/AB_portfolio/categories/"
+                href="https://someone-ab.github.io/My-Portfolio/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://noobmodeler.github.io/AB_portfolio/fr/categories/"
+                href="https://someone-ab.github.io/My-Portfolio/fr/categories/"
                 />
   </url><url>
-    <loc>https://noobmodeler.github.io/AB_portfolio/fr/contact/</loc>
+    <loc>https://someone-ab.github.io/My-Portfolio/fr/contact/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://noobmodeler.github.io/AB_portfolio/contact/"
+                href="https://someone-ab.github.io/My-Portfolio/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://noobmodeler.github.io/AB_portfolio/fr/contact/"
+                href="https://someone-ab.github.io/My-Portfolio/fr/contact/"
                 />
   </url>
 </urlset>
